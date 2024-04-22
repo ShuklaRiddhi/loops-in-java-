@@ -1,0 +1,14 @@
+statement -> loops in java 
+problem -> print numbers from 1 to 5 by using loops 
+solution 
+public class main {
+public static void main(string[] args){
+scanner in = new scanner(system.in);
+int n = in.nextInt();
+for(int num = 1; num <= n; num++){
+system.out.println(num +"");
+
+
+
+
+
